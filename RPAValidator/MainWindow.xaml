@@ -1,0 +1,19 @@
+﻿<Window x:Class="RPAValidator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RPAValidator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="379.827">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="BtnLoadUI" Content="Load UI log&#xD;&#xA;" HorizontalAlignment="Left" Margin="82,58,0,0" VerticalAlignment="Top" Width="200" Height="50" FontSize="20" Click="BtnLoadUI_Click"/>
+        <Button x:Name="BtnPlay" Content="Play&#xA;" HorizontalAlignment="Left" Margin="82,132,0,0" VerticalAlignment="Top" Width="200" Height="50" FontSize="20" Click="BtnPlay_Click"/>
+        <Label x:Name="LbLoadMessage" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,213,0,0" RenderTransformOrigin="0.13,0.407"/>
+        <Button x:Name="BtnExit" Content="Exit&#xA;" HorizontalAlignment="Left" Margin="82,363,0,0" VerticalAlignment="Top" Width="200" Height="32" FontSize="20" Click="BtnExit_Click"/>
+
+    </Grid>
+</Window>
