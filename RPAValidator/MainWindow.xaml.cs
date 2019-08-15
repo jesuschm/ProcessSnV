@@ -24,7 +24,7 @@ namespace RPAValidator
     public partial class MainWindow : Window
     {
         FakeUI fakeUI;
-        String logPath = @"D:\Personal\TFG\RPAValidator\RPAValidator\Resources\log.csv";
+        String logPath = @"D:\Development\TFG\ProcessSnV\RPAValidator\Resources\log.csv";
 
         public MainWindow()
         {

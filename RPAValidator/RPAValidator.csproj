@@ -115,9 +115,46 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Resources\log.csv" />
+    <None Include="Resources\Vault\20190612_deleteMail_gmail\logfiles20190612.csv" />
+    <None Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\logfiles20190612.csv" />
+    <None Include="Resources\Vault\20190615_facebookSearchAndLike_2\logfiles20190615.csv" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\MSI_20190615020546307.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020549515.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020549591.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020552396.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020553853.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020555273.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020557632.jpg" />
+    <Resource Include="Resources\img\MSI_20190615020557690.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171222327.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171227134.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171227201.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171229016.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171233217.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171237078.jpg" />
+    <Resource Include="Resources\Vault\20190612_deleteMail_gmail\PRIMARY\MSI_20190612171238234.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202619787.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202621488.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202623228.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202629790.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202629848.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202634118.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202637032.jpg" />
+    <Resource Include="Resources\Vault\20190612_searchAndDeleteMail_gmail\PRIMARY\MSI_20190612202638445.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020546307.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020549515.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020549591.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020552396.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020553853.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020555273.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020557632.jpg" />
+    <Resource Include="Resources\Vault\20190615_facebookSearchAndLike_2\PRIMARY\MSI_20190615020557690.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
